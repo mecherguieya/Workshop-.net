@@ -1,0 +1,49 @@
+D:\.NET 23-24\Examen\ExamenImp\Examen.Infra\bin\Debug\net6.0\Examen.Infra.deps.json
+D:\.NET 23-24\Examen\ExamenImp\Examen.Infra\bin\Debug\net6.0\Examen.Infra.runtimeconfig.json
+D:\.NET 23-24\Examen\ExamenImp\Examen.Infra\bin\Debug\net6.0\Examen.Infra.dll
+D:\.NET 23-24\Examen\ExamenImp\Examen.Infra\bin\Debug\net6.0\Examen.Infra.pdb
+D:\.NET 23-24\Examen\ExamenImp\Examen.Infra\obj\Debug\net6.0\Examen.Infra.csproj.AssemblyReference.cache
+D:\.NET 23-24\Examen\ExamenImp\Examen.Infra\obj\Debug\net6.0\Examen.Infra.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET 23-24\Examen\ExamenImp\Examen.Infra\obj\Debug\net6.0\Examen.Infra.AssemblyInfoInputs.cache
+D:\.NET 23-24\Examen\ExamenImp\Examen.Infra\obj\Debug\net6.0\Examen.Infra.AssemblyInfo.cs
+D:\.NET 23-24\Examen\ExamenImp\Examen.Infra\obj\Debug\net6.0\Examen.Infra.csproj.CoreCompileInputs.cache
+D:\.NET 23-24\Examen\ExamenImp\Examen.Infra\obj\Debug\net6.0\Examen.Infra.dll
+D:\.NET 23-24\Examen\ExamenImp\Examen.Infra\obj\Debug\net6.0\refint\Examen.Infra.dll
+D:\.NET 23-24\Examen\ExamenImp\Examen.Infra\obj\Debug\net6.0\Examen.Infra.pdb
+D:\.NET 23-24\Examen\ExamenImp\Examen.Infra\obj\Debug\net6.0\Examen.Infra.genruntimeconfig.cache
+D:\.NET 23-24\Examen\ExamenImp\Examen.Infra\obj\Debug\net6.0\ref\Examen.Infra.dll
+C:\Users\Administrateur\Downloads\ExamenImp\ExamenImp\Examen.Infra\bin\Debug\net6.0\Examen.Infra.deps.json
+C:\Users\Administrateur\Downloads\ExamenImp\ExamenImp\Examen.Infra\bin\Debug\net6.0\Examen.Infra.runtimeconfig.json
+C:\Users\Administrateur\Downloads\ExamenImp\ExamenImp\Examen.Infra\bin\Debug\net6.0\Examen.Infra.dll
+C:\Users\Administrateur\Downloads\ExamenImp\ExamenImp\Examen.Infra\bin\Debug\net6.0\Examen.Infra.pdb
+C:\Users\Administrateur\Downloads\ExamenImp\ExamenImp\Examen.Infra\bin\Debug\net6.0\Examen.ApplicationCore.dll
+C:\Users\Administrateur\Downloads\ExamenImp\ExamenImp\Examen.Infra\bin\Debug\net6.0\Examen.ApplicationCore.pdb
+C:\Users\Administrateur\Downloads\ExamenImp\ExamenImp\Examen.Infra\obj\Debug\net6.0\Examen.Infra.csproj.AssemblyReference.cache
+C:\Users\Administrateur\Downloads\ExamenImp\ExamenImp\Examen.Infra\obj\Debug\net6.0\Examen.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrateur\Downloads\ExamenImp\ExamenImp\Examen.Infra\obj\Debug\net6.0\Examen.Infra.AssemblyInfoInputs.cache
+C:\Users\Administrateur\Downloads\ExamenImp\ExamenImp\Examen.Infra\obj\Debug\net6.0\Examen.Infra.AssemblyInfo.cs
+C:\Users\Administrateur\Downloads\ExamenImp\ExamenImp\Examen.Infra\obj\Debug\net6.0\Examen.Infra.csproj.CoreCompileInputs.cache
+C:\Users\Administrateur\Downloads\ExamenImp\ExamenImp\Examen.Infra\obj\Debug\net6.0\Examen.Infra.csproj.CopyComplete
+C:\Users\Administrateur\Downloads\ExamenImp\ExamenImp\Examen.Infra\obj\Debug\net6.0\Examen.Infra.dll
+C:\Users\Administrateur\Downloads\ExamenImp\ExamenImp\Examen.Infra\obj\Debug\net6.0\refint\Examen.Infra.dll
+C:\Users\Administrateur\Downloads\ExamenImp\ExamenImp\Examen.Infra\obj\Debug\net6.0\Examen.Infra.pdb
+C:\Users\Administrateur\Downloads\ExamenImp\ExamenImp\Examen.Infra\obj\Debug\net6.0\Examen.Infra.genruntimeconfig.cache
+C:\Users\Administrateur\Downloads\ExamenImp\ExamenImp\Examen.Infra\obj\Debug\net6.0\ref\Examen.Infra.dll
+C:\Users\Administrateur\Desktop\ExamenImp - Copie (2)\ExamenImp\Examen.Infra\bin\Debug\net6.0\Examen.Infra.deps.json
+C:\Users\Administrateur\Desktop\ExamenImp - Copie (2)\ExamenImp\Examen.Infra\bin\Debug\net6.0\Examen.Infra.runtimeconfig.json
+C:\Users\Administrateur\Desktop\ExamenImp - Copie (2)\ExamenImp\Examen.Infra\bin\Debug\net6.0\Examen.Infra.dll
+C:\Users\Administrateur\Desktop\ExamenImp - Copie (2)\ExamenImp\Examen.Infra\bin\Debug\net6.0\Examen.Infra.pdb
+C:\Users\Administrateur\Desktop\ExamenImp - Copie (2)\ExamenImp\Examen.Infra\bin\Debug\net6.0\Examen.ApplicationCore.dll
+C:\Users\Administrateur\Desktop\ExamenImp - Copie (2)\ExamenImp\Examen.Infra\bin\Debug\net6.0\Examen.ApplicationCore.pdb
+C:\Users\Administrateur\Desktop\ExamenImp - Copie (2)\ExamenImp\Examen.Infra\obj\Debug\net6.0\Examen.Infra.csproj.AssemblyReference.cache
+C:\Users\Administrateur\Desktop\ExamenImp - Copie (2)\ExamenImp\Examen.Infra\obj\Debug\net6.0\Examen.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrateur\Desktop\ExamenImp - Copie (2)\ExamenImp\Examen.Infra\obj\Debug\net6.0\Examen.Infra.AssemblyInfoInputs.cache
+C:\Users\Administrateur\Desktop\ExamenImp - Copie (2)\ExamenImp\Examen.Infra\obj\Debug\net6.0\Examen.Infra.AssemblyInfo.cs
+C:\Users\Administrateur\Desktop\ExamenImp - Copie (2)\ExamenImp\Examen.Infra\obj\Debug\net6.0\Examen.Infra.csproj.CoreCompileInputs.cache
+C:\Users\Administrateur\Desktop\ExamenImp - Copie (2)\ExamenImp\Examen.Infra\obj\Debug\net6.0\Examen.Infra.sourcelink.json
+C:\Users\Administrateur\Desktop\ExamenImp - Copie (2)\ExamenImp\Examen.Infra\obj\Debug\net6.0\Examen.Infra.csproj.CopyComplete
+C:\Users\Administrateur\Desktop\ExamenImp - Copie (2)\ExamenImp\Examen.Infra\obj\Debug\net6.0\Examen.Infra.dll
+C:\Users\Administrateur\Desktop\ExamenImp - Copie (2)\ExamenImp\Examen.Infra\obj\Debug\net6.0\refint\Examen.Infra.dll
+C:\Users\Administrateur\Desktop\ExamenImp - Copie (2)\ExamenImp\Examen.Infra\obj\Debug\net6.0\Examen.Infra.pdb
+C:\Users\Administrateur\Desktop\ExamenImp - Copie (2)\ExamenImp\Examen.Infra\obj\Debug\net6.0\Examen.Infra.genruntimeconfig.cache
+C:\Users\Administrateur\Desktop\ExamenImp - Copie (2)\ExamenImp\Examen.Infra\obj\Debug\net6.0\ref\Examen.Infra.dll
